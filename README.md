@@ -1,5 +1,5 @@
 # Overview
-We would like you to write a single page, mobile­based web app without any backend. Below is the user story, followed by the design.
+We would like you to write a single page, mobile­based web app without any backend. Below is the user story, followed by the design. 
 
 # Acceptance Criteria
 
@@ -21,7 +21,7 @@ the profile page.
 
 # Other
 - Assume the  html for the chat and profile is already on the page
-- Don't create your own "template engine" 
+- Don't create or use any template "engine" 
 - Please don't use any libraries or frameworks (jquery, bootstrap, angular)
 - Usage of bundlers, CSS preprocessors and task runners is encouraged 
 - Please provide a short summary detailing anything you think is relevant, for _example_:
